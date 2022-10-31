@@ -79,11 +79,11 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact .info {
+/* .contact .info {
   
   width: 100%;
   background: #fff;
-  /* justify-content: center; */
+  justify-content: center;
 }
 .contact .info i {
   font-size: 20px;
@@ -121,7 +121,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   background: #fff;
-  /* padding: 0% 40rem; */
+  padding: 0% 40rem;
 
 }
 .contact .php-email-form .form-group {
@@ -205,9 +205,9 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
-.footer{
+/* .footer{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -217,7 +217,7 @@ section {
   padding: 1rem;
   flex-direction: column;
   margin-top: 2rem;
-}
+} */
 
 /*--------------------------------------------------------------
 # Breadcrumbs
