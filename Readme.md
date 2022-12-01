@@ -1,5 +1,3 @@
-# What Changes You Have made 
+# Our E-cell Blog page 
 
-## I Contributed by creating Contact Section. 
 
-### _AB NB VD  RD
